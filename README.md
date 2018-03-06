@@ -19,5 +19,4 @@ Start the server:
 View in Chrome:
 
 [http://localhost:3000](http://localhost:3000)
-https://github.com/username/reponame/blob/master/
 ![Screen shot](https://github.com/bobmacneal/react-type-ahead-filtering/blob/master/public/screenshot.png)
