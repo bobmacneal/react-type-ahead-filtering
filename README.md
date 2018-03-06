@@ -19,3 +19,5 @@ Start the server:
 View in Chrome:
 
 [http://localhost:3000](http://localhost:3000)
+
+![Screen shot](https://github.com/bobmacneal/master/public/screenshot.png)
