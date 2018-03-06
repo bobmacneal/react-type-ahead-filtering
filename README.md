@@ -12,6 +12,10 @@ Change to the directory:
 
 `$ cd react-type-ahead-filtering`
 
+Install node packages:
+
+`$ npm install`
+
 Start the server:
 
 `$ npm start`
